@@ -1,0 +1,24 @@
+body{
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+#canvas{
+    position: relative;
+}
+#button{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    background-color: aquamarine;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: x-large;
+    border-radius: 5px;
+    
+}
